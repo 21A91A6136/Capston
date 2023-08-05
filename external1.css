@@ -1,0 +1,311 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+.a
+{
+	background: lightgray;
+	width: 1520px;
+	height: 800px;
+	background-image: url("image/reflection-lights-mountain-lake-captured-parco-ciani-lugano-switzerland.jpg");
+	background-size: 1520px;
+	background-repeat: no-repeat;
+}
+.b
+{
+	background: lightgray;
+	width: 1520px;
+	height: 800px;
+	background-image: url("image/beautiful-scenery-summit-mount-everest-covered-with-snow-white-clouds.jpg");
+	background-size: 1520px;
+	background-repeat: no-repeat;
+}
+.R
+{
+	width: 760px;
+	height: 800px;
+	float: left;
+}
+
+.S
+{
+	width: 760px;
+	height: 800px;
+	float: left;
+	padding-top: 250px;
+	size: 30px;
+	color: white;
+}
+.c
+{
+	background: lightgray;
+	width: 1520px;
+	height: 800px;
+	background-image: url("image/misurina-sunset.jpg");
+	background-size: 1520px;
+	background-repeat: no-repeat;
+}
+.d
+{
+	background: lightgray;
+	width: 1520px;
+	height: 1300px;
+	background-image: url("image/breathtaking-scenery-starry-sky-rocky-cliffs-reflecting-lake-night-time.jpg");
+	background-size: 1520px;
+	background-repeat: no-repeat;
+}
+.e
+{
+	background: lightgray;
+	width: 1520px;
+	height: 1000px;
+	background-image: url("image/beeautiful-landscape-with-mountain-starry-sky.jpg");
+	background-size: 1520px;
+	background-repeat: no-repeat;
+}
+.f
+{
+	background: #EAC696;
+	width: 1520px;
+	height: 300px;
+	float: left;
+}
+.h
+{
+	background:#EAC696;
+	width: 755px;
+	height: 300px;
+	float: left;
+	font-family: cursive;
+	font-size: 30px;
+	padding-left:180px;
+	padding-top: 50px;
+	padding-right:100px;
+}
+.t
+{
+	background:#EAC696;
+	width: 755px;
+	height: 300px;
+	float: left;
+	font-family: cursive;
+	font-size: 20px;
+	padding-left:100px;
+	padding-top: 70px;
+	padding-right:100px;
+}
+.l
+{
+	background: black;
+	width: 1520px;
+	height: 600px;
+}
+.division
+{
+
+	width: 760px;
+	height: 600px;
+	float: left;
+}
+.division1
+{
+	background-image: url("image/circle.png");
+	background-repeat: no-repeat;
+	width: 200px;
+	height: 800px;
+	float: left;
+	padding-left: 100px;
+}
+.pic1
+{
+	width: 400px;
+	height: 400px;
+	margin-top:200px;
+	margin-left: 580px;
+}
+.para
+{
+	font-size: 30px;
+	margin-left: 630px;
+	margin-top: 20px;
+	color: lightwhite;
+}
+.pic2
+{
+	width: 200px;
+	height: 400px;
+	margin-top: 200px;
+	margin-left: 400px;
+
+}
+.hello1
+{
+	font-size: 40px;
+	padding-left: 100px;
+	padding-top: 100px;
+	color: white;
+}
+.para1
+{
+	font-size: 20px;
+	color: lightwhite;
+	text-align: justify;
+  	text-justify: inter-word;
+  	padding-bottom: 1000px;
+  	text-align: center;
+}
+.do1
+{
+	width: 760px;
+	height: 1000px;
+	float: left;
+}
+.do2
+{
+	width: 760px;
+	height: 1200px;
+	float: right;
+}
+.head
+{
+	font-family: cursive;
+	color: white;
+	margin-left: 230px;
+	margin-top: 200px;
+	font-size: 40px;
+}
+.form1
+{
+	background-color: transparent;
+	width: 70%;
+  	padding: 12px 20px;
+  	margin-left: 220px;
+  	display: inline-block;
+  	border: 1px solid #ccc;
+  	border-radius: 4px;
+  	box-sizing: border-box;
+  	color: white;
+}
+.form2
+{
+	background-color: transparent;
+	width: 70%;
+	height: 200px;
+  	padding: 12px 20px;
+  	margin-left: 220px;
+  	display: inline-block;
+  	border: 1px solid #ccc;
+  	border-radius: 4px;
+  	box-sizing: border-box;
+  	color: white;
+}
+.sub
+{
+	width: 90px;
+	height: 30px;
+	margin-left: 300px;
+}
+.pic3
+{
+	width: 600px;
+	height: 700px;
+	background-image:url("image/autumn-landscape-snowy-mountain-peaks-fantastic-sunset_146671-3035.avif") ;
+	margin-top: 100px;
+	margin-left: 50px;
+	background-repeat: no-repeat;
+}
+.header
+{
+	font-size: 40px;
+	color: white;
+	text-align: right;
+	padding-right: 30px;
+	padding-top: 200px;
+	font-family: cursive;
+}
+.para2
+{
+	font-size: 20px;
+	color: white;
+	text-align: right;
+	padding-right: 30px;
+	padding-top: 50px;
+	font-family: cursive;	
+}
+.middle1
+{
+	background-image: url("image/beautiful-wide-shot-ruth-glaciers-covered-snow-blue-sky-with-white-clouds.jpg");
+	width: 320px;
+	height: 500px;
+	float: left;
+	margin-top: 150px;
+	margin-left: 250px;
+}
+.middle2
+{
+	background-image: url("image/wide-angle-shot-single-tree-growing-clouded-sky-during-sunset-surrounded-by-grass.jpg");
+	width: 320px;
+	height: 500px;
+	float: left;
+	margin-top: 150px;
+	margin-left: 30px;
+}
+.middle3
+{
+	background-image: url("image/lone-tree.jpg");
+	width: 320px;
+	height: 500px;
+	float: left;
+	margin-top: 150px;
+	margin-left: 30px;
+}
+.middle2h
+{
+	color: white;
+	font-family: cursive;
+	font-size: 50px;
+	margin-left: 10px;
+}
+.hello11
+{
+	background-image: url("image/mesmerizing-scenery-green-mountains-with-cloudy-sky-surface_181624-27189.avif");
+	width: 500px;
+	height: 500px;
+	margin-top: 180px;
+	margin-left: 100px;
+	float: left;
+	background-repeat: no-repeat;
+}
+.hello10
+{
+	width: 500px;
+	height: 500px;
+	margin-top: 150px;
+	margin-left: 300px;
+	float: left;
+}
+.para3
+{
+	color: white;
+	font-size: 20px;
+	font-family:monospace;
+}
+.para4
+{
+	color: white;
+	font-size: 20px;
+	font-family: monospace;
+	padding-left: 30px;	
+	text-align: center;
+	padding-top: 100px;
+}
+.last
+{
+	text-align: center;
+	color: white;
+	padding-top: 270px;
+	padding-right: 50px;
+	font-size: 50px;
+}
